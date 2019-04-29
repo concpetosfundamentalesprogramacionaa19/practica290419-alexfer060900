@@ -1,4 +1,4 @@
-
+﻿
 Presentar la solución en lenguaje Java
 
 El costo de matricula de un estudiante es de $1330. Pero se debe considerar algunas situaciones:
@@ -16,4 +16,5 @@ Al costo final de matrícula se le debe agregar 2% por trámite administrativos.
 
 Nota: los porcentajes deben estar en una clase y paquete diferente; para su importación en la clase Principal.
 
-
+266+133+66.5+39.9-26.6
+478.8
